@@ -1,3 +1,2 @@
 # Wad_class
-re
-hello
+<h2>from local folder</h2>
